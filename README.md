@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BernardoMeine
 - 👀 I’m interested in learning how to code, focusing primarily on back-end aplications
-- 🌱 I’m currently learning HTML and CCS (I´m very newbie regarding this subject)
-- 💞️ I’m looking to collaborate on nothing right now because I´m still learning
+- 🌱 I’m currently learning Javascript and recently started NodeJS
+- 💞️ I’m looking to start developing small projects to enhance my coding skills and programming logic
 - 📫 How to reach me bemeine15@hotmail.com
 
 <!---
