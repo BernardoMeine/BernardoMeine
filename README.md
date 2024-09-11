@@ -6,7 +6,15 @@ Sou um cara apaixonado por ciência e tecnologia, formado em biotecnologia e com
 
 Possuo conhecimentos sólidos na linguagem C# e a plataforma .NET. Também possuo conhecimento com a HTML, CSS e Javascript, especialmente a lib React. Acredito que minha principal habilidade seja minha capacidade analítica (em função dos anos de pesquisa) e a constante busca na melhor solução para qualquer problema que eu precise enfrentar.
 
-## Como me achar
+[EN]
+
+Hello, my name is Bernardo de Moraes Meine (you can call me Be).
+
+I am passionate about science and technology, with a degree in Biotechnology and a Master's and PhD in Biochemistry. Currently, I am transitioning into a career in software development, which I’ve discovered to be my true passion.
+
+I have solid experience with C# and the .NET platform, as well as knowledge of HTML, CSS, and JavaScript, particularly the React library. I believe my greatest strength is my analytical ability (honed through years of research) and my constant pursuit of the best solution to any problem I encounter.
+
+## Como me achar / How to find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardodemoraesmeine/)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/)
