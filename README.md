@@ -6,8 +6,6 @@ Sou um cara apaixonado por ciência e tecnologia, formado em biotecnologia e com
 
 Possuo conhecimentos sólidos na linguagem C# e a plataforma .NET. Também possuo conhecimento com a HTML, CSS e Javascript, especialmente a lib React. Acredito que minha principal habilidade seja minha capacidade analítica (em função dos anos de pesquisa) e a constante busca na melhor solução para qualquer problema que eu precise enfrentar.
 
-Meu portólio (Git-hub: https://github.com/BernardoMeine)
-
 ## Como me achar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardodemoraesmeine/)
 
